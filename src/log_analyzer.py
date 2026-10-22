@@ -73,6 +73,7 @@ def generate_report(file_path):
     print(f"异常格式记录数：{invalid_count}")
     print(f"正常记录数：{normal_count}")
     print(f"需关注记录数：{alert_count}")
+    print("说明：本工具使用简化规则统计需关注记录。")
 
     print("\n状态码统计：")
     for status, count in sorted(status_counts.items()):
