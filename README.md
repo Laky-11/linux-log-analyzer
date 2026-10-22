@@ -42,7 +42,7 @@ linux-log-analyzer/
 
 - Python 3
 - Windows 或 Linux
-- Git（用于版本管理）
+- Git
 
 ## 6. 运行方法
 
